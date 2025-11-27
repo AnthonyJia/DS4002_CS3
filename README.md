@@ -1,1 +1,1 @@
-# DS4002_CS3
+# Who's the Imposter: AI Face Image Detection
