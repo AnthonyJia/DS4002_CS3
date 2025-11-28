@@ -22,6 +22,10 @@ The raw data for this case study is too large to be included in its entirety in 
 - [FFHQ dataset](https://drive.google.com/drive/folders/1tZUcXDBeOibC6jcMCtgRRz67pzrAHeHL)
 - [StyleGAN dataset](https://drive.google.com/open?id=14lm8VRN1pr4g_KVe6_LvyDX1PObst6d4)
 
+## Rubric
+
+This document outlines the requirements and evaluation criteria for the case study. Refer to it to ensure your submission meets all expectations.
+
 ## Steps for Reproduction
 
 ### Step 0: Add Google Drive Shortcuts to datasets
